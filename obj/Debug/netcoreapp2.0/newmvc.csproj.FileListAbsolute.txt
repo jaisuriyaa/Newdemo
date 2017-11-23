@@ -1,0 +1,10 @@
+c:\Users\tfssetup\newmvc\bin\Debug\netcoreapp2.0\newmvc.deps.json
+c:\Users\tfssetup\newmvc\bin\Debug\netcoreapp2.0\newmvc.runtimeconfig.json
+c:\Users\tfssetup\newmvc\bin\Debug\netcoreapp2.0\newmvc.runtimeconfig.dev.json
+c:\Users\tfssetup\newmvc\bin\Debug\netcoreapp2.0\newmvc.dll
+c:\Users\tfssetup\newmvc\bin\Debug\netcoreapp2.0\newmvc.pdb
+c:\Users\tfssetup\newmvc\obj\Debug\netcoreapp2.0\newmvc.csproj.CoreCompileInputs.cache
+c:\Users\tfssetup\newmvc\obj\Debug\netcoreapp2.0\newmvc.AssemblyInfoInputs.cache
+c:\Users\tfssetup\newmvc\obj\Debug\netcoreapp2.0\newmvc.AssemblyInfo.cs
+c:\Users\tfssetup\newmvc\obj\Debug\netcoreapp2.0\newmvc.dll
+c:\Users\tfssetup\newmvc\obj\Debug\netcoreapp2.0\newmvc.pdb

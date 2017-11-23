@@ -1,1 +1,0 @@
-c:\users\tfssetup\source\repos\aspnetapp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
